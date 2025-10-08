@@ -23,7 +23,7 @@ function Dashboard() {
     <div style={{ minHeight: '100vh', background: '#181c20', color: '#fff' }}>
       {/* Top Navigation Bar */}
       <nav style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', background: '#23272b', padding: '0 48px', height: '64px' }}>
-        <div style={{ fontSize: '2rem', fontWeight: 700, color: '#19d4dd' }}>Campus Nest</div>
+        <div style={{ fontSize: '2rem', fontWeight: 700, color: '        git commit -m "Initial commit of Campus Nest dashboard and features"' }}>Campus Nest</div>
         <div style={{ display: 'flex', alignItems: 'center', gap: '24px' }}>
           <span style={{ fontWeight: 600 }}>Rahul Sharma</span>
           <button style={{ background: '#19d4dd', color: '#222', border: 'none', borderRadius: '8px', padding: '8px 18px', fontWeight: 500, cursor: 'pointer', fontSize: '1rem', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>Logout</button>
