@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CAMPUS-NEST/static/css/main.1c6e9ad1.css",
+    "main.js": "/CAMPUS-NEST/static/js/main.7cb1baba.js",
+    "index.html": "/CAMPUS-NEST/index.html",
+    "main.1c6e9ad1.css.map": "/CAMPUS-NEST/static/css/main.1c6e9ad1.css.map",
+    "main.7cb1baba.js.map": "/CAMPUS-NEST/static/js/main.7cb1baba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c6e9ad1.css",
+    "static/js/main.7cb1baba.js"
+  ]
+}
